@@ -8,5 +8,4 @@
 
 ## 笔记
 
-[Link简介](docs\02-JDK17与顺序表)
-
+[Link简介](Link简介.md)
